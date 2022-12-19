@@ -1,0 +1,30 @@
+html {
+	box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  background-color: #070217;
+  font-family: 'font', sans-serif;
+}
+
+* {
+  margin-top: 0;
+}
+
+h1 h2 {
+  margin-bottom: 20px;
+}
+
+img {
+	max-width: 600px;
+  margin-bottom: 40px;
+}
+
+a {
+	color: inherit;
+}
